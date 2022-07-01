@@ -1,5 +1,5 @@
 
-    // Importing the packages required for the project.  
+    // Importing the packages required for the projec.  
       
     const mysql = require('mysql');  
     const express = require('express');  
